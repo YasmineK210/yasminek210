@@ -3,11 +3,11 @@
 💻 CS student & aspiring web developer </br>
 👩‍🎓 Studied in NCKU Taiwan and currently in NUS Singapore </br>
 🌱 Currently interning at SIA </br>
-🎮 When not coding, you can usually find me playing Hoyo games!
+🎮 When not coding, you can usually find me playing Hoyo games! </br>
 🎯 Goal: Looking for a frontend (eventually full stack) developer job roles to contribute building apps and webs users love to use! </br>
 
 ## 📍 Where to Find Me
-• [💼LinkedIn](www.linkedin.com/in/kelly-yasmine-69981a276)
+• [💼LinkedIn](www.linkedin.com/in/kelly-yasmine-69981a276) </br>
 • Portfolio (TBA)
 
 ## 🚀 Featured Projects
