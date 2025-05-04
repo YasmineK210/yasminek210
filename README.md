@@ -25,6 +25,6 @@ Used to do some game projects at school using Unity and C#, would love to pick i
 | Repo Name | Description | 
 |-----------|-------------|
 [Chicken Runner Game](https://github.com/YasmineK210/Chicken_Runner) | Inspired by Mario Kart, this is a 2P chicken runner game where you race each other as chickens!</br>3 selection theme maps to choose from</br>Obtain mysterious power block to boost you
-[Viking Runner Game](Viking_Run_Game) | An endless runner game, viking-themed!
+[Viking Runner Game](https://github.com/YasmineK210/Viking_Run_Game) | An endless runner game, viking-themed!
 
 
