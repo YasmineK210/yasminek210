@@ -3,7 +3,12 @@
 💻 CS student & aspiring web developer </br>
 👩‍🎓 Studied in NCKU Taiwan and currently in NUS Singapore </br>
 🌱 Currently interning at SIA </br>
-🎯 Goal: Become a frontend (eventually full stack) developer to build apps and webs users love to use! </br>
+🎮 When not coding, you can usually find me playing Hoyo games!
+🎯 Goal: Looking for a frontend (eventually full stack) developer job roles to contribute building apps and webs users love to use! </br>
+
+## 📍 Where to Find Me
+• [💼LinkedIn](www.linkedin.com/in/kelly-yasmine-69981a276)
+• Portfolio (TBA)
 
 ## 🚀 Featured Projects
 
@@ -14,5 +19,11 @@
 [Card Match Game](https://github.com/YasmineK210/CAMatchGame) | A card matching game on Android. <br>Players can:<br>• Input URL that has multiple pictures for cards<br>• Select six photos to use as cards<br>• Play a round of card match with a timer<br>• See leaderboard| Frontend lead, UI/UX, develop frontend and backend for the website | Kotlin, Android SDK |
 [NCKU Book Market](https://github.com/YasmineK210/SA59ncku_book_market) | A mockup 2nd hand store website for NCKU students to ell and buy 2nd hand textbooks. Students can:<br>• Post books to sell <br>• Edit or delete listing<br>• Comment under book listing if interested in buying<br>• View seller's profile and contact means<br>• Edit user profile and contract means| Frontend lead, UI/UX, develop frontend for the website | React, CSS |
 
+## 🕹️ Game Projects 
+Used to do some game projects at school using Unity and C#, would love to pick it up back one day! Thought it will be cool to share it
+| Repo Name | Description | 
+|-----------|-------------|
+[Chicken Runner Game](https://github.com/YasmineK210/Chicken_Runner) | Inspired by Mario Kart, this is a 2P chicken runner game where you race each other as chickens!</br>3 selection theme maps to choose from</br>Obtain mysterious power block to boost you
+[Viking Runner Game](Viking_Run_Game) | An endless runner game, viking-themed!
 
 
