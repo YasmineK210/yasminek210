@@ -6,7 +6,7 @@
 🎮 When not coding, you can usually find me playing Hoyo games! </br>
 🎯 Goal: Looking for a frontend (eventually full stack) developer job roles to contribute building apps and webs users love to use! </br>
 
-## 📍 Stacks
+## 💻 Stacks
 •	Computing Languages: Java, Python, C, C++, C#, Kotlin </br>
 •	Frontend Frameworks: React.js, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Zustand </br>
 •	Backend Framework: Spring Boot, .NET, Node.js (learning) </br>
