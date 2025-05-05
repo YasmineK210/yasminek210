@@ -6,6 +6,15 @@
 🎮 When not coding, you can usually find me playing Hoyo games! </br>
 🎯 Goal: Looking for a frontend (eventually full stack) developer job roles to contribute building apps and webs users love to use! </br>
 
+## 📍 Stacks
+•	Computing Languages: Java, Python, C, C++, C#, Kotlin </br>
+•	Frontend Frameworks: React.js, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Zustand </br>
+•	Backend Framework: Spring Boot, .NET, Node.js (learning) </br>
+•	Testing Framework: Playwright </br>
+•	Tools & Technologies: Git, Jira, Confluence, Bitbucket, Docker, AWS, CI/CD pipelines, Figma </br>
+•	AI/ML: Deep Learning (CNNs), Sentiment Analysis, Pytorch, Tensorflow </br>
+
+
 ## 📍 Where To Find Me
 • 📩Email: kellyyasmine020@gmail.com </br>
 • 💼[LinkedIn](www.linkedin.com/in/kelly-yasmine-69981a276) </br>
