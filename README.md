@@ -7,12 +7,12 @@
 🎯 Goal: Looking for a frontend (eventually full stack) developer job roles to contribute building apps and webs users love to use! </br>
 
 ## 💻 Stacks
-•	Computing Languages: Java, Python, C, C++, C#, Kotlin </br>
-•	Frontend Frameworks: React.js, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Zustand </br>
-•	Backend Framework: Spring Boot, .NET, Node.js (learning) </br>
-•	Testing Framework: Playwright </br>
-•	Tools & Technologies: Git, Jira, Confluence, Bitbucket, Docker, AWS, CI/CD pipelines, Figma </br>
-•	AI/ML: Deep Learning (CNNs), Sentiment Analysis, Pytorch, Tensorflow </br>
+•	<b>Computing Languages</b>: Java, Python, C, C++, C#, Kotlin </br>
+•	<b>Frontend Frameworks</b>: React.js, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Zustand </br>
+•	<b>Backend Framework</b>: Spring Boot, .NET, Node.js (learning) </br>
+•	<b>Testing Framework</b>: Playwright </br>
+•	<b>Tools & Technologies</b>: Git, Jira, Confluence, Bitbucket, Docker, AWS, CI/CD pipelines, Figma </br>
+•	<b>AI/ML</b>: Deep Learning (CNNs), Sentiment Analysis, Pytorch, Tensorflow </br>
 
 
 ## 📍 Where To Find Me
