@@ -18,7 +18,7 @@
 ## 📍 Where To Find Me
 • 📩Email: kellyyasmine020@gmail.com </br>
 • 💼[LinkedIn](www.linkedin.com/in/kelly-yasmine-69981a276) </br>
-• Portfolio (TBA)
+• 👩‍💻[Portfolio](https://kelly-yasmine-portfolio.vercel.app/)</br>
 
 ## 🚀 Featured Projects
 
