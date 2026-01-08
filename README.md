@@ -1,15 +1,15 @@
 ## 👋 Hi there, I'm Kelly! 
 
-• CS student & aspiring web developer </br>
+• Junior software engineer </br>
 • Studied in NCKU Taiwan and currently in NUS Singapore </br>
-• Currently interning at SIA </br>
-• Looking for a frontend (eventually full stack) developer job roles to contribute building apps and webs users love to use! </br>
+• Interned at SIA, revamped their meal selection page </br>
+• Getting myself back to coding after a long break, one commit at at time... </br>
 
 ## 💻 Stacks
 •	<b>Computing Languages</b>: Java, Python, C, C++, C#, Kotlin </br>
 •	<b>Frontend Frameworks</b>: React.js, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Zustand </br>
-•	<b>Backend Framework</b>: Spring Boot, .NET (basic), Node.js (learning) </br>
-•	<b>Testing Framework</b>: Playwright </br>
+•	<b>Backend Framework</b>: Spring Boot, Node.js </br>
+•	<b>Testing Framework</b>: Playwright, JUnit5 </br>
 •	<b>Tools & Technologies</b>: Git, Jira, Confluence, Bitbucket, Docker (basic), AWS (basic), CI/CD pipelines, Figma </br>
 •	<b>AI/ML</b>: Deep Learning (CNNs), Sentiment Analysis, Pytorch, Tensorflow </br>
 
